@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: text-summary
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: https://github.com/lockefox/text-summary
+Author: John Purcell
+Author-email: jpurcell.ee@gmail.com
+License: MIT
+Download-URL: https://github.com/lockefox/text-summary/tarball/v0.1.0
+Keywords: nltk summary text article
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Provides-Extra: dev
+Requires-Dist: ProsperCommon
+Requires-Dist: plumbum
+Requires-Dist: nltk
+Requires-Dist: newspaper3k
+Provides-Extra: dev
+Requires-Dist: sphinx; extra == 'dev'
+Requires-Dist: sphinxcontrib-napoleon; extra == 'dev'
+Requires-Dist: semantic-version; extra == 'dev'
+
+UNKNOWN
+
+

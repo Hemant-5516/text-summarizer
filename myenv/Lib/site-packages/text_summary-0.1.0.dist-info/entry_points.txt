@@ -1,0 +1,3 @@
+[console_scripts]
+summarize = summary.summarize:run_main
+
